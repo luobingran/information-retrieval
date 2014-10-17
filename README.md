@@ -1,4 +1,4 @@
 information-retrieval
 =====================
 
-course cod
+course code
